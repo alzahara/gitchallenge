@@ -1,0 +1,75 @@
+install git:git Bash
+
+commands:
+
+1.git configuration
+
+git config --global user.name "Alzahara T B"
+git config --global user.email "alzaharabasheer@gmail.com"
+
+2.New project 
+
+git init
+
+.In our project folder any file is available check
+
+ls -a
+
+.status 
+
+git status
+
+.version creation
+
+git add filename
+git add --all
+git add .
+git commit -m "initial commit"
+
+.find how many commit 
+
+git log
+
+.change head,master(working directory=head changes)
+
+git checkout id( b200fb75439338a9ab2007d9436e61b43130e77)
+
+.opposite 
+
+git checkout master
+
+.log all comment
+
+git log --all
+
+.migration
+ 
+git merge branch name(fast forward merge)
+
+.current branch
+
+git branch
+
+.KNOw edited modification
+
+git diff
+
+.delete
+ 
+git stash
+
+
+.clear command prompt
+
+clear
+
+.creation of branch
+
+git branch feature
+
+
+
+
+3.already existing project
+
+git clone
