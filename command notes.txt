@@ -69,7 +69,16 @@ then merge branch
 new window created(press i to insert)
 exit esc button :wq
 
+push to server for our projects
 
+git remote add hub https://github.com/alzahara/My_New_project.git
+
+git remote(finD REMOTE NAME)
+
+git remote -v(link)
+
+git push hub master(branch)-code push cheyan
+then type github username and password
 
 .clear command prompt
 
