@@ -58,6 +58,18 @@ git diff
  
 git stash
 
+.graph
+
+git log --all --decorate --graph
+
+recursive merge
+
+first we want to checkout branch
+then merge branch
+new window created(press i to insert)
+exit esc button :wq
+
+
 
 .clear command prompt
 
